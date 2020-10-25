@@ -41,7 +41,7 @@ consider this code :
 
     * duplicate set text method
     
-* Refactoring: create Enum for store values.
+* Refactoring:create Label array and for loop to add set text
 
 ```java      
       @FXML
